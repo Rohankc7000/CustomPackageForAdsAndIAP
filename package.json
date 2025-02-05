@@ -1,0 +1,16 @@
+{
+    "name": "com.rohan.ads_and_iap",
+    "version": "1.0.1",
+    "displayName": "IAP And Ads Custom Package",
+    "description": "This is a package for simply integarting the IAP and Ads in the existing project.",
+    "unity": "6000.0",
+    "author": {
+        "name": "Rohan KC",
+        "email": "rohankc700@gmail.com",
+        "url": "https://www.facebook.com/rohan.kecy.9/"
+    },
+    "dependencies": {
+        "com.unity.purchasing": "4.12.2"
+    },
+    "documentationUrl": "https://docs.unity3d.com/Manual/CustomPackages.html"
+}
